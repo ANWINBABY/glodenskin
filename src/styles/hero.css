@@ -33,9 +33,9 @@
 }
 
 .star-main img {
-    transform: translateY(335px);
+    left: -31.4rem;
     position: absolute;
-    left: -28rem;
+    transform: translateY(335px);
 }
 
 .star-wrapper.star-main {
