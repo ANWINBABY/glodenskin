@@ -41,10 +41,9 @@
     justify-content: center;
     margin: 0 auto 20px;
     position: relative;
-    top: 230px;
+    top: 65px;
     z-index: 5;
 }
-
 .icon svg {
   color: white;
   font-size: 35px;
