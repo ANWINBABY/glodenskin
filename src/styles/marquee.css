@@ -322,11 +322,13 @@ width: 80%;
 }
 
 .content {
-  margin-top: 20px;
-  position: absolute;
-  left: 380px;
-  width: 400px;
+    margin-top: 20px;
+    position: absolute;
+    top: 380px;
+    left: 275px;
+    width: 400px;
 }
+
 
 .shop-btn {
   position: relative;
