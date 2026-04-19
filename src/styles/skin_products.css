@@ -45,12 +45,12 @@
 }
 
 .cards-container {
-  display: flex;
-  position: relative;
-  top: 105px;
-  left: -800px;
-  gap: 24px;
-  align-items: flex-end;
+    display: flex;
+    position: relative;
+    top: 105px;
+    left: -660px;
+    gap: 24px;
+    align-items: flex-end;
 }
 
 .product-card {
