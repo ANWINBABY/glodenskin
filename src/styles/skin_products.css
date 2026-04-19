@@ -40,7 +40,7 @@
   height: 40px;
   position: relative;
   top: -28.7rem;
-  right: -70rem;
+  right: -65rem;
   opacity: 0.9;
 }
 
@@ -48,7 +48,7 @@
     display: flex;
     position: relative;
     top: 105px;
-    left: -660px;
+    left: -550px;
     gap: 24px;
     align-items: flex-end;
 }
