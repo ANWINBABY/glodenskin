@@ -66,7 +66,7 @@
     animation: floatStar 3s ease-in-out infinite;
     position: absolute;
     top: 138px;
-    left: 390px;
+    left: 453px;
 }
 
 .services-section h1 {
@@ -84,7 +84,7 @@
 .hydra-star {
     position: absolute;
     bottom: -7px;
-    right: 112px;
+    right: 66px;
     width: 200px;
 }
 
