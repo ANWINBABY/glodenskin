@@ -254,12 +254,12 @@ h1 {
 }
 
 h2 {
-   margin-top: 40px;
+    margin-top: 40px;
     font-size: 30px;
     top: 50px;
     width: 320px;
     position: relative;
-    left: 55.6rem;
+    left: 35.6rem;
     z-index: 10;
 }
 
