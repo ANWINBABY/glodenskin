@@ -320,15 +320,13 @@ width: 80%;
   font-size: 28px;
   font-weight: bold;
 }
-
 .content {
     margin-top: 20px;
     position: absolute;
-    top: 380px;
+    top: 258px;
     left: 275px;
     width: 400px;
 }
-
 
 .shop-btn {
   position: relative;
