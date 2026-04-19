@@ -254,13 +254,14 @@ h1 {
 }
 
 h2 {
-    margin-top: 40px;
+   margin-top: 40px;
     font-size: 30px;
     top: 50px;
     width: 320px;
     position: relative;
-    left: 30.6rem;
+    left: 55.6rem;
     z-index: 10;
+}
 }
 
 .content {
